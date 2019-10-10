@@ -10,3 +10,5 @@ this is stagging issue
 this is something
 
 this content i want to rebase
+
+this is master rebase step - 2
